@@ -1,0 +1,32 @@
+{
+    "mysql_group_name":"26284695-8245-11e7-a08b-06c12477f9a9",
+	"servers":[
+		{
+			"mysql_server_id":"1",
+            "mysql_server_bind_ip":"10.1.6.229",
+			"mysql_port":"14001",
+			"mysql_mgr_port":"15001",
+			"mysql_sock":"/opt/liguo/data/14001/mysql.sock",
+			"mysql_base_dir":"/opt/liguo/mysql",
+			"mysql_data_dir":"/opt/liguo/data/14001"
+		},
+        {
+			"mysql_server_id":"2",
+            "mysql_server_bind_ip":"10.1.6.229",
+			"mysql_port":"14002",
+			"mysql_mgr_port":"15002",
+			"mysql_sock":"/opt/liguo/data/14002/mysql.sock",
+			"mysql_base_dir":"/opt/liguo/mysql",
+			"mysql_data_dir":"/opt/liguo/data/14002"
+		},
+        {
+			"mysql_server_id":"3",
+            "mysql_server_bind_ip":"10.1.6.229",
+			"mysql_port":"14003",
+			"mysql_mgr_port":"15003",
+			"mysql_sock":"/opt/liguo/data/14003/mysql.sock",
+			"mysql_base_dir":"/opt/liguo/mysql",
+			"mysql_data_dir":"/opt/liguo/data/14003"
+		}
+	]
+}
